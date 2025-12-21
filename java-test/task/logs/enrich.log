@@ -1,0 +1,12 @@
+2025-12-21T15:16:57.437918700Z, main, START threads=4
+2025-12-21T15:16:57.847552700Z, pool-1-thread-4, OK id=4 commentsCount=5 uniqueEmailsCount=5
+2025-12-21T15:16:57.847552700Z, pool-1-thread-2, OK id=2 commentsCount=5 uniqueEmailsCount=5
+2025-12-21T15:16:57.851779600Z, pool-1-thread-3, OK id=3 commentsCount=5 uniqueEmailsCount=5
+2025-12-21T15:16:57.866357300Z, pool-1-thread-1, OK id=1 commentsCount=5 uniqueEmailsCount=5
+2025-12-21T15:16:57.898864700Z, pool-1-thread-4, OK id=6 commentsCount=5 uniqueEmailsCount=5
+2025-12-21T15:16:57.901162500Z, pool-1-thread-2, OK id=5 commentsCount=5 uniqueEmailsCount=5
+2025-12-21T15:17:17.102418300Z, pool-1-thread-3, ERROR: Connection reset
+2025-12-21T15:17:17.102418300Z, pool-1-thread-4, ERROR: Connection reset
+2025-12-21T15:17:17.102418300Z, pool-1-thread-1, ERROR: Connection reset
+2025-12-21T15:17:17.102418300Z, pool-1-thread-2, ERROR: Connection reset
+2025-12-21T15:17:17.115871200Z, main, DONE ok=6 fail=4 started=2025-12-21T15:16:57.437918700Z finished=2025-12-21T15:17:17.113772800Z
