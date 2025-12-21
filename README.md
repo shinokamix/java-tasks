@@ -1,7 +1,7 @@
 # Зачет
 
-Задание лежит в папке java-test/task
-Видео к нему лежит в папке java-test/task/video
+1. Задание лежит в папке java-test/task
+2. Видео к нему лежит в папке java-test/task/video
 
 
 # Задачи
@@ -18,5 +18,6 @@
 ![Курс learngitbranching 1](Images/git1.png)
 ![Курс learngitbranching 2](Images/git2.png)
 ![Курсы portswigger](Images/portswigger.png)
+
 
 
